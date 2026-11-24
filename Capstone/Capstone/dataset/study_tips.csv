@@ -1,0 +1,41 @@
+topic,category,study_tip,split
+Python Loops,Python,"Trace a loop by writing the counter after each step.",train
+Python Functions,Python,"Write one small function, then test it with both a typical and an edge-case input.",train
+Python Lists,Python,"Practice list indexing by predicting the value at each index before running the code.",train
+Python Dictionaries,Python,"Use a small key-value example and check how lookup, update, and missing keys behave.",train
+Python Exceptions,Python,"Raise one expected error deliberately, then handle it with the narrowest suitable except clause.",train
+Java OOP,Java,"For each class, identify its state and behavior, then create one object and call a method.",train
+Java Inheritance,Java,"Draw the parent-child relationship and verify which methods are inherited or overridden.",train
+Java Collections,Java,"Compare a List, Set, and Map using the same sample data and note what each preserves.",train
+Data Structures: Stacks,Data Structures,"Trace push and pop operations on paper and keep the top element clearly marked.",train
+Data Structures: Queues,Data Structures,"Simulate enqueue and dequeue with a short line of values to check first-in, first-out order.",train
+Data Structures: Trees,Data Structures,"Label the root, leaves, and child links on a tiny tree before calculating its traversal order.",train
+Data Structures: Hash Tables,Data Structures,"Work through a few keys and hash values, including one collision, to see how lookup is resolved.",train
+Algorithms: Binary Search,Algorithms,"At every step, mark the middle index and discard the half that cannot contain the target.",train
+Algorithms: Sorting,Algorithms,"Sort five values by hand using one algorithm and count each comparison or swap.",train
+Algorithms: Big-O,Algorithms,"Count how the number of basic operations changes when the input size doubles.",train
+Mathematics: Linear Algebra,Mathematics,"Multiply a small pair of matrices by hand and check each entry as a row-column dot product.",train
+Mathematics: Probability,Mathematics,"List the equally likely outcomes first, then count favorable outcomes over total outcomes.",train
+Mathematics: Derivatives,Mathematics,"Differentiate a simple function term by term, then verify the result at one point with a small change.",train
+Machine Learning,Machine Learning,"Fit a simple model, inspect its errors on unseen data, and change one feature at a time.",train
+Machine Learning: Overfitting,Machine Learning,"Compare training and validation scores; a widening gap is a cue to simplify or regularize the model.",train
+Deep Learning: Backpropagation,Deep Learning,"Follow one prediction error backward through a tiny network and note each weight's gradient.",train
+Deep Learning: CNNs,Deep Learning,"Sketch a small image patch and slide one filter across it to calculate the feature map.",train
+DBMS: SQL Joins,Database Management Systems,"Write two tiny tables and predict the rows returned by an INNER JOIN before executing it.",train
+DBMS: Normalization,Database Management Systems,"Underline repeated facts in a sample table and split them into related tables with clear keys.",train
+Computer Networks: TCP/IP,Computer Networks,"Trace one request through the network layers and write what each layer contributes.",train
+Computer Networks: Subnetting,Computer Networks,"Convert the subnet mask to binary, then mark the network and host bits before finding the range.",train
+Operating Systems: Processes,Operating Systems,"Draw a process state diagram and move one example process through each valid transition.",train
+Operating Systems: Scheduling,Operating Systems,"Create a short process table and calculate waiting time for each process under one scheduling rule.",train
+Python: List Comprehensions,Python,"Rewrite a simple loop as a comprehension, then compare both versions on the same input.",train
+Algorithms: Recursion,Algorithms,"Write the base case first, then trace each recursive call until it reaches that case.",train
+Python: Generators,Python,"Call next() repeatedly on a small generator and record when it yields and when it stops.",evaluation
+Java: Exception Handling,Java,"Trigger a checked exception in a tiny example and trace how the matching catch block handles it.",evaluation
+Data Structures: Graph Traversal,Data Structures,"Mark each visited vertex while tracing BFS with a queue or DFS with a stack.",evaluation
+Algorithms: Dynamic Programming,Algorithms,"Write the smallest subproblems and their recurrence before filling a memoization table.",evaluation
+Mathematics: Eigenvalues,Mathematics,"Check an eigenpair by multiplying the matrix by the vector and comparing it with the scaled vector.",evaluation
+Machine Learning: Clustering,Machine Learning,"Plot a few labeled points and compare how changing the cluster count changes the groupings.",evaluation
+Deep Learning: Attention,Deep Learning,"Use a three-token example to calculate attention scores, normalize them, and combine value vectors.",evaluation
+DBMS: Transactions,Database Management Systems,"Trace a two-step transaction and check which changes remain after commit or rollback.",evaluation
+Computer Networks: DNS,Computer Networks,"Follow a hostname lookup from cache to resolver and record the role of each response.",evaluation
+Operating Systems: Deadlocks,Operating Systems,"Draw resource-allocation arrows and look for a cycle that could indicate a deadlock.",evaluation

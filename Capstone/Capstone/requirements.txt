@@ -1,0 +1,6 @@
+torch>=2.2
+transformers>=4.45,<6
+streamlit>=1.40
+pandas>=2.0
+matplotlib>=3.8
+safetensors>=0.4
